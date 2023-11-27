@@ -1,0 +1,27 @@
+{
+  "name": "mastercss",
+  "version": "1.0.0",
+  "description": "Proyecto curso mastercss profesor Victor Robles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvalenciar/mastercss.git"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "css",
+    "css3",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Milton Valencia R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvalenciar/mastercss/issues"
+  },
+  "homepage": "https://github.com/mvalenciar/mastercss#readme"
+}
