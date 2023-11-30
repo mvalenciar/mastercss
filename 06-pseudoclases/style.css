@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+ul li {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul li:first-child {
+    color: coral;
+    font-style: italic;
+}
+
+ul li:nth-child(2) {
+    color: darkslateblue;
+    font-style: italic;
+}
+
+ul li:last-child {
+    color: chartreuse;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.mi-enlace {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mi-enlace:link {
+    color: burlywood;
+}
+
+.mi-enlace:visited {
+    color: cornflowerblue;
+}
+
+.mi-enlace:hover {
+    color: cadetblue;
+}
+
+.mi-enlace:active {
+    color: darkgoldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type="text"]:focus {
+    border: 4px dashed rgba(171, 171, 171, 0.5);
+}
